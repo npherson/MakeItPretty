@@ -1,6 +1,6 @@
 # Make It Pretty
 Example Scripts from MMS20XX Customizing Windows 10 Sessions: 
-Use the 2018 Content, it includes 2017 & more... all for the same price.
+Use the 2018 Content, it includes 2017 & more... all for the same price.  (MMS2018.zip)
 
 Liked what you saw? Don't forget to rate the sessions through sched!
 
